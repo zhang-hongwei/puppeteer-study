@@ -46,14 +46,6 @@ const url =
         console.log("elements===>", data);
 
         return data;
-
-        // data.map(item => {
-        //     const movie = new Movies({
-        //         ...item,
-        //         date: new Date()
-        //     });
-        //     movie.save();
-        // });
     });
 
     console.log("======>>>>result", result);
