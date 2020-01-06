@@ -19,5 +19,8 @@
   "homepage": "https://github.com/zhang-hongwei/puppeteer-study#readme",
   "devDependencies": {
     "puppeteer": "^2.0.0"
+  },
+  "dependencies": {
+    "mongoose": "^5.8.4"
   }
 }
